@@ -54,4 +54,6 @@ table {
 	font-family: 'Quicksand-Regular';
 	src: url(../fonts/Quicksand-Regular.ttf);
   } 
-
+.carousel-item h5{
+	font-size: 30px;
+}
