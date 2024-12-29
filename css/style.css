@@ -61,11 +61,11 @@ table {
 }
 .pritom{
 	position: absolute;
-	top: 35%;
+	top: 45%;
 	left: 50%;
 	transform: translate(-50%, -50%);
 	border-radius: 20px;
-	background-color: #d0f1c1;
+	background-color: #bcc4b3;
  	opacity: 0.6;
 }
 .main-title h2{
