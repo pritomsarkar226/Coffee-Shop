@@ -57,3 +57,42 @@ table {
 .carousel-item h5{
 	font-size: 30px;
 }
+section{
+	margin-bottom: 50px;
+}
+.service-title h2{
+	text-align: center;
+	font-size: 50px;
+	font-family: 'Economica-Bold';
+	padding-bottom: 20px;
+}
+.service-title h3{
+	font-size: 20px;
+	font-family: 'Quicksand-Regular';
+	text-align: center;
+	padding-bottom: 50px;
+}
+.img-fluid{
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+.our-service img{
+	vertical-align: middle;
+	width: 300px;
+	height: 300px;
+	border-radius: 100%;
+  }
+.our-service h2{
+	font-family: 'Economica-Bold';
+	font-size: 30px;
+	text-align: center;
+	padding-top: 20px;
+}
+.our-service h3{
+	font-family: 'Quicksand-Regular';
+	font-size: 20px;
+	text-align: center;
+	padding-top: 10px;
+}
