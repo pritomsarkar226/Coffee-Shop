@@ -119,3 +119,9 @@ button{
 .drinks{
 	background: #facb36;
 }
+.menu-item-right{
+	float: right;
+}
+.cl{
+	clear: both;
+}
