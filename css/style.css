@@ -102,3 +102,10 @@ section{
 	text-align: center;
 
 }
+button{
+	height: 40px;
+	width: 150px;
+}
+.button-section{
+	margin-left: 27%;
+}
