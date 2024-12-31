@@ -73,10 +73,10 @@ section{
 	padding-bottom: 50px;
 }
 .img-fluid{
-	display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 100%;
+  	 display: block;
+ 	 margin-left: auto;
+ 	 margin-right: auto;
+ 	 width: 100%;
 }
 .our-service img{
 	vertical-align: middle;
@@ -114,7 +114,6 @@ button{
 }
 .button-section{
 	margin-left: 27%;
-
 }
 .drinks{
 	background: #facb36;
@@ -123,5 +122,5 @@ button{
 	float: right;
 }
 .cl{
-	clear: both;
+	
 }
