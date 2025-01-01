@@ -114,13 +114,36 @@ button{
 }
 .button-section{
 	margin-left: 27%;
+	
+}
+.button-section button{
+	color: #facb36;
 }
 .drinks{
-	background: #facb36;
+	color: black;
 }
 .menu-item-right{
 	float: right;
 }
 .cl{
 	clear: both;
+}
+.right{
+	float: right;
+}
+.menu-bacground{
+	background: black;
+}
+.menu-title h2{
+	font-family: 'Quicksand-Regular';
+	font-size: 30px;
+	color: #ffeeb7;
+}
+.menu-title .right{
+	font-family: 'Quicksand-Regular';
+	font-size: 30px;
+	color: #ffeeb7;
+}
+.sub-menu-title h2{
+	
 }
