@@ -145,5 +145,12 @@ button{
 	color: #ffeeb7;
 }
 .sub-menu-title h2{
-	
+	font-family: 'Quicksand-Regular';
+	font-size: 30px;
+	color: #ffeeb7;
+}
+.sub-menu-title .right{
+	font-family: 'Quicksand-Regular';
+	font-size: 30px;
+	color: #ffeeb7;
 }
