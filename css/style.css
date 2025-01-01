@@ -54,6 +54,10 @@ table {
 	font-family: 'Quicksand-Regular';
 	src: url(../fonts/Quicksand-Regular.ttf);
   } 
+  @font-face {
+	font-family: 'Economica-Regular';
+	src: url(../fonts/Economica-Regular.ttf);
+  } 
 .carousel-item h5{
 	font-size: 30px;
 }
@@ -122,35 +126,43 @@ button{
 .drinks{
 	color: black;
 }
-.menu-item-right{
-	float: right;
-}
 .cl{
 	clear: both;
-}
-.right{
-	float: right;
 }
 .menu-bacground{
 	background: black;
 }
-.menu-title h2{
-	font-family: 'Quicksand-Regular';
-	font-size: 30px;
-	color: #ffeeb7;
+.menu-item{
+	margin-top: 20px;
 }
-.menu-title .right{
-	font-family: 'Quicksand-Regular';
-	font-size: 30px;
-	color: #ffeeb7;
+.sub-itam{
+	margin-top: 10px;
 }
-.sub-menu-title h2{
-	font-family: 'Quicksand-Regular';
+.menu-item h2{
+	float: left;
+	font-family: 'Economica-Regular';
 	font-size: 30px;
-	color: #ffeeb7;
+	color: #facb36;
 }
-.sub-menu-title .right{
-	font-family: 'Quicksand-Regular';
+.menu-item h3{
+	float: right;
+	font-family: 'Economica-Regular';
 	font-size: 30px;
-	color: #ffeeb7;
+	color: #facb36;
+}
+.sub-itam h2{
+	float: left;
+	font-family: 'Quicksand-Regular';
+	font-size: 15px;
+	color: #a2a19f;
+}
+.sub-itam h3{
+	float: right;
+	font-family: 'Quicksand-Regular';
+	font-size: 15px;
+	color: #a2a19f;
+}
+.sub-itam h3 i{
+	padding-right: 5px;
+	color: red;
 }
