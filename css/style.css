@@ -117,6 +117,7 @@ section{
 	border: 2px solid  #facb36 ;
 	background: none;
 	color: aliceblue;
+	margin-bottom: 20px;
 }
 .menu-button{
 	margin-left: auto;
@@ -125,4 +126,17 @@ section{
 }
 .menu{
 	background: black;
+}
+.menu-item h2{
+	font-family: 'Economica-Regular';
+	font-size: 30px;
+	color: #ffeeb7;
+}
+.menu-item a{
+	text-decoration: none;
+	text-align: center;
+}
+.menu-item i{
+	color: red;
+	padding-left: 100px;
 }
