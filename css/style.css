@@ -100,14 +100,14 @@ section{
 	text-align: center;
 	padding-top: 10px;
 }
-.main-menu h2{
+.menu-title h2{
 	font-family: 'Quicksand-Regular';
 	font-size: 50px;
 	text-align: center;
 	color: #facb36;
 	padding-bottom: 20px;
 }
-button{
+.menu-title button{
 	height: 40px;
 	width: 150px;
 	font-family: 'Quicksand-Regular';
@@ -115,55 +115,4 @@ button{
 	border-radius: 5px;
 	border: 2px solid  #facb36 ;
 	background: none;
-}
-.button-section{
-	margin-left: 27%;
-	
-}
-.button-section button{
-	color: #facb36;
-}
-.drinks{
-	color: black;
-}
-.cl{
-	clear: both;
-}
-.menu-bacground{
-	background: black;
-}
-.menu-item{
-	margin-top: 20px;
-	
-}
-.sub-itam{
-	margin-top: 10px;
-}
-.menu-item h2{
-	float: left;
-	font-family: 'Economica-Regular';
-	font-size: 30px;
-	color: #facb36;
-}
-.menu-item h3{
-	float: right;
-	font-family: 'Economica-Regular';
-	font-size: 30px;
-	color: #facb36;
-}
-.sub-itam h2{
-	float: left;
-	font-family: 'Quicksand-Regular';
-	font-size: 15px;
-	color: #a2a19f;
-}
-.sub-itam h3{
-	float: right;
-	font-family: 'Quicksand-Regular';
-	font-size: 15px;
-	color: #a2a19f;
-}
-.sub-itam h3 i{
-	padding-right: 5px;
-	color: red;
 }
