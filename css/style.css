@@ -147,3 +147,8 @@ section{
 	font-size: 50px;
 	color: #facb36;
 }
+.special-title h3{
+	font-family: 'Quicksand-Regular';
+	font-size: 20px;
+	text-align: center;
+}
