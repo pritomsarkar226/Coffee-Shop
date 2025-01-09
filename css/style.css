@@ -170,3 +170,11 @@ section{
 	text-align: center;
 	padding-top: 20px;
 }
+.coffee-beans h2{
+	font-family: 'Quicksand-Regular';
+	font-size: 30px;
+	color: #facb36;
+}
+.coffee-beans-bg{
+	background: black;
+}
