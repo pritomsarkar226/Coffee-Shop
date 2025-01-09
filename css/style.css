@@ -158,7 +158,14 @@ section{
 	font-family: 'Economica-Regular';
 	font-size: 30px;
 	color: #facb36;
+	padding-top: 100px;
 }
 .good-coffee-bg{
 	background: #ffeeb7;
+}
+.good-coffee h3{
+	font-family: 'Quicksand-Regular';
+	font-size: 20px;
+	text-align: center;
+	padding-top: 20px;
 }
