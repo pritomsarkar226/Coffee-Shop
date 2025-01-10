@@ -175,6 +175,11 @@ section{
 	font-size: 30px;
 	color: #facb36;
 }
+.coffee-beans h3{
+	font-family: 'Quicksand-Regular';
+	font-size: 20px;
+	color: #e2dfd5;
+}
 .coffee-beans-bg{
 	background: black;
 }
