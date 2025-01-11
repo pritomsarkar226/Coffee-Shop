@@ -132,6 +132,7 @@ section{
 	font-size: 30px;
 	color: #ffeeb7;
 	padding-bottom: 50px;
+	font-weight: bold;
 }
 .menu-item a{
 	text-decoration: none;
@@ -147,6 +148,7 @@ section{
 	font-size: 50px;
 	color: #facb36;
 	padding-bottom: 20px;
+	font-weight: bold;
 }
 .special-title h3{
 	font-family: 'Quicksand-Regular';
@@ -160,6 +162,7 @@ section{
 	font-size: 30px;
 	color: #facb36;
 	padding-top: 100px;
+	font-weight: bold;
 }
 .good-coffee-bg{
 	background: #ffeeb7;
@@ -175,6 +178,7 @@ section{
 	font-size: 30px;
 	color: #facb36;
 	padding-top: 100px;
+	font-weight: bold;
 }
 .coffee-beans h3{
 	font-family: 'Quicksand-Regular';
@@ -192,6 +196,9 @@ section{
 	width: 190px;
 	height: 45px;
 	margin-bottom: 100px;
-	background: #facb36;
-	color: #e2dfd5;
+	color: #facb36;
+	border: 2px solid #facb36;
+	border-radius: 10px;
+	background: none;
+	font-weight: bold;
 }
