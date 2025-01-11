@@ -69,6 +69,7 @@ section{
 	font-size: 50px;
 	font-family: 'Economica-Bold';
 	padding-bottom: 20px;
+	font-weight: bold;
 }
 .service-title h3{
 	font-size: 20px;
@@ -93,6 +94,7 @@ section{
 	font-size: 30px;
 	text-align: center;
 	padding-top: 20px;
+	font-weight: bold;
 }
 .our-service h3{
 	font-family: 'Quicksand-Regular';
@@ -107,6 +109,7 @@ section{
 	color: #facb36;
 	padding-bottom: 20px;
 	padding-top: 50px;
+	font-weight: bold;
 }
 .menu-title button{
 	height: 40px;
@@ -176,7 +179,7 @@ section{
 .coffee-beans h2{
 	font-family: 'Quicksand-Regular';
 	font-size: 30px;
-	color: #facb36;
+	color: #ffffff;
 	padding-top: 100px;
 	font-weight: bold;
 }
