@@ -174,14 +174,24 @@ section{
 	font-family: 'Quicksand-Regular';
 	font-size: 30px;
 	color: #facb36;
-	padding-top: 50px;
+	padding-top: 100px;
 }
 .coffee-beans h3{
 	font-family: 'Quicksand-Regular';
-	font-size: 20px;
+	font-size: 25px;
 	color: #e2dfd5;
-	padding-top: 10px;
+	padding-top: 20px;
 }
 .coffee-beans-bg{
 	background: black;
+}
+.coffee-beans button{
+	margin-top: 20px;
+	font-family: 'Quicksand-Regular';
+	font-size: 20px;
+	width: 190px;
+	height: 45px;
+	margin-bottom: 100px;
+	background: #facb36;
+	color: #e2dfd5;
 }
