@@ -214,6 +214,8 @@ section{
 .contact-item ul li i{
 	font-size:20px;
 	border: 2px solid #facb36;
+	padding: 8px 8px;
+	border-radius:50px;
 }
 .contact-item ul li{
 	font-size: 20px;
