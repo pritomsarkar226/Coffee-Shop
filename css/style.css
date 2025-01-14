@@ -230,3 +230,8 @@ section{
 	border: none;
 	border-radius: 5px;
 }
+.contact-from select{
+	margin-top: 20px;
+	width: 600px;
+	height: 40px;
+}
