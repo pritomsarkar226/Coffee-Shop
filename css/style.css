@@ -251,14 +251,18 @@ input.message{
 	border-radius: 5px;
 }
 .footer-bg{
-	background: #060606;
+	background:#272926;
 }
 .center {
 	padding-top: 50px;
 	display: block;
 	margin-left: auto;
 	margin-right: auto;	
+	padding-bottom:20px;
   }
 .footer h2{
-	
+	text-align: center;
+	font-family: 'Quicksand-Regular';
+	font-size: 20px;
+	color: #ffffff;
 }
