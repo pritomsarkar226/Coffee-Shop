@@ -250,3 +250,9 @@ input.message{
 	border: none;
 	border-radius: 5px;
 }
+.footer-bg{
+	background: #060606;
+}
+.footer img{
+	margin-top: 50px;
+}
