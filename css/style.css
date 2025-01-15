@@ -236,8 +236,16 @@ section{
 	width: 600px;
 	height: 40px;
 }
-.message{
+input.message{
 	margin-top: 20px;
 	width: 600px;
-	height: 400px;
+	height:150px;
+	padding-left: 40%;
+}
+.contact-from button{
+	margin-top: 20px;
+	width: 600px;
+	height: 40px;
+	background: #facb36;
+	
 }
