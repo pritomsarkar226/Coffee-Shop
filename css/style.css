@@ -253,6 +253,12 @@ input.message{
 .footer-bg{
 	background: #060606;
 }
-.footer img{
-	margin-top: 50px;
+.center {
+	padding-top: 50px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;	
+  }
+.footer h2{
+	
 }
