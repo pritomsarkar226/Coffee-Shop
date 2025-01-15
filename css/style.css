@@ -247,5 +247,6 @@ input.message{
 	width: 600px;
 	height: 40px;
 	background: #facb36;
-	
+	border: none;
+	border-radius: 5px;
 }
