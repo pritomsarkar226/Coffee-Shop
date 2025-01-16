@@ -260,11 +260,23 @@ input.message{
 	margin-right: auto;	
 	padding-bottom:20px;
   }
-.footer h2{
+  .footer h2{
+	text-align: center;
+	font-family: 'Quicksand-Regular';
+	font-size: 20px;
+	color: #ffffff;
+	margin-top: 30px;
+}
+.subscribe h2{
 	text-align: center;
 	font-family: 'Quicksand-Regular';
 	font-size: 20px;
 	color: #ffffff;
 	margin-top: 30px;
 	background: black;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;	
 }
